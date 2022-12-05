@@ -1,2 +1,2 @@
-# java
-Repositório de estudos da linguagem Java.
+# c#
+Repositório de estudos da linguagem C#.
