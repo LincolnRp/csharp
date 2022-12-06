@@ -1,0 +1,5 @@
+.NET Framework = .NET legado versão Windows
+
+.NET CORE = .NET atual, multiplataforma (que diz respeito agora somente ao .NET sem a nomenclatura de CORE)
+
+Fluxos da compilação: primeira compilação acontece no seu código C#, com o próprio compilador do C#, é gerado o código intermediário (código universal que naão diz respeito a nenhuma máquina em arquiterua em especifico), que sera outra vez compilado para linguagem de máquina (21 0a 00 00..) por meio do JIT compiler (nesse momento, sendo compilado de uma forma diferente pra cada máquina/arquitetura)
