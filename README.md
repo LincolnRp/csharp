@@ -1,6 +1,8 @@
 # Repositório de estudos da linguagem C#.
 
-<img src="https://user-images.githubusercontent.com/93271677/206547033-2746d126-b480-4718-b370-f1f2f5293c80.png" width="600px" align="center"></img>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/93271677/206547033-2746d126-b480-4718-b370-f1f2f5293c80.png" width="600px"></img>
+</p>
 
 ## 🚀 Descrição
 
