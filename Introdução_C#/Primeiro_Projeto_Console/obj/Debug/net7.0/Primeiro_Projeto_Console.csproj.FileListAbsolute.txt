@@ -1,0 +1,15 @@
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\bin\Debug\net7.0\Primeiro_Projeto_Console.exe
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\bin\Debug\net7.0\Primeiro_Projeto_Console.deps.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\bin\Debug\net7.0\Primeiro_Projeto_Console.runtimeconfig.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\bin\Debug\net7.0\Primeiro_Projeto_Console.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\bin\Debug\net7.0\Primeiro_Projeto_Console.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.AssemblyInfoInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.AssemblyInfo.cs
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\refint\Primeiro_Projeto_Console.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\Primeiro_Projeto_Console.genruntimeconfig.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Primeiro_Projeto_Console\obj\Debug\net7.0\ref\Primeiro_Projeto_Console.dll
