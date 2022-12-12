@@ -1,0 +1,15 @@
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\bin\Debug\net7.0\Poo.exe
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\bin\Debug\net7.0\Poo.deps.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\bin\Debug\net7.0\Poo.runtimeconfig.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\bin\Debug\net7.0\Poo.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\bin\Debug\net7.0\Poo.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.AssemblyInfoInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.AssemblyInfo.cs
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\refint\Poo.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\Poo.genruntimeconfig.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Poo\obj\Debug\net7.0\ref\Poo.dll
