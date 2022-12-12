@@ -1,0 +1,15 @@
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\bin\Debug\net7.0\Tipos_Dados.exe
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\bin\Debug\net7.0\Tipos_Dados.deps.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\bin\Debug\net7.0\Tipos_Dados.runtimeconfig.json
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\bin\Debug\net7.0\Tipos_Dados.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\bin\Debug\net7.0\Tipos_Dados.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.AssemblyInfoInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.AssemblyInfo.cs
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\refint\Tipos_Dados.dll
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\Tipos_Dados.genruntimeconfig.cache
+C:\Users\linco\OneDrive\Área de Trabalho\programação\csharp\Introdução_C#\Tipos_Dados\obj\Debug\net7.0\ref\Tipos_Dados.dll
